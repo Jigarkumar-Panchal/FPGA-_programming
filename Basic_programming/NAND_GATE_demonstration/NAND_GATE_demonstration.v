@@ -10,18 +10,19 @@
 // Project Name: NAND_GATE_demonstration
 // Target Devices: BASYS 3
 // Tool Versions: 
-// Description: 
+// Description: OR gate demonstration on basys 3 board by digilent by using Verilog and Vivado Design Suite. 
+// While using, on-board Switch 15 (LED 15) as a gate input A, Switch 14 (LED 14) as a gate input B, LED 0 as output of the gate.
 // 
 // Dependencies: 
 // 
 // Revision:
 // Revision 0.01 - File Created
 // Additional Comments:
-// 
+// I_P_ :: input
+// O_P_LED_ :: output represented by LED
 //////////////////////////////////////////////////////////////////////////////////
 
-
-module OR_GATE_demonstration(
+module NAND_GATE_demonstration(
     input I_P_A,
     input I_P_B,
     output O_P_LED_A,
