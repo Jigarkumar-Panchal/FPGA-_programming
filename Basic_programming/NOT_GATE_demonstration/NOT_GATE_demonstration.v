@@ -10,14 +10,16 @@
 // Project Name: NOT_GATE_demonstration
 // Target Devices: BASYS 3
 // Tool Versions: 
-// Description: 
+// Description: NOT gate demonstration on basys 3 board by digilent by using Verilog and Vivado Design Suite. 
+// While using, on-board Switch 15 (LED 15) as a gate input A, LED 0 as output of the gate.
 // 
 // Dependencies: 
 // 
 // Revision:
 // Revision 0.01 - File Created
 // Additional Comments:
-// 
+// I_P_ :: input
+// O_P_LED_ :: output represented by LED
 //////////////////////////////////////////////////////////////////////////////////
 
 
