@@ -8,7 +8,7 @@
 -- Project Name: Half_Adder
 -- Target Devices: BASYS 3
 -- Tool Versions: 
--- Description: Taking on board Switch 15 as input A,Switch 14 as input B. Taking on board LED 1 as input SUM, LED 0 as input CARRY.
+-- Description: Taking on board Switch 15 as input A,Switch 14 as input B. Taking on board LED 1 as output SUM, LED 0 as output CARRY.
 -- 
 -- Dependencies: 
 -- 
