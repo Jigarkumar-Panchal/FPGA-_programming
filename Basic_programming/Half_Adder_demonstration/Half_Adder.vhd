@@ -5,10 +5,10 @@
 -- Create Date: 16.08.2024 10:53:57
 -- Design Name: 
 -- Module Name: Half_Adder - Behavioral
--- Project Name: 
--- Target Devices: 
+-- Project Name: Half_Adder
+-- Target Devices: BASYS 3
 -- Tool Versions: 
--- Description: 
+-- Description: Taking on board Switch 15 as input A,Switch 14 as input B. Taking on board LED 1 as input SUM, LED 0 as input CARRY.
 -- 
 -- Dependencies: 
 -- 
